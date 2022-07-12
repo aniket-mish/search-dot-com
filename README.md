@@ -1,3 +1,1 @@
-# searchdot
-
-# neural search project
+# search-dot
